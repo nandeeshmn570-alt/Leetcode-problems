@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0239-sliding-window-maximum/) | Hard |
+| [3925-concatenate-array-with-reverse](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
