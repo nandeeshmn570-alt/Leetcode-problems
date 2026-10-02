@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0724-find-pivot-index](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0724-find-pivot-index/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
@@ -162,4 +163,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0724-find-pivot-index](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
