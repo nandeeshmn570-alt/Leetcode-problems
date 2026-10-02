@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0724-find-pivot-index](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0724-find-pivot-index/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0049-group-anagrams/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -172,4 +176,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0724-find-pivot-index/) | Easy |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
