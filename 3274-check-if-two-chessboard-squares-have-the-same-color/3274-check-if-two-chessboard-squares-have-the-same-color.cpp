@@ -1,6 +1,6 @@
 class Solution {
 public:
-    string squareIsWhite(string coordinates) {
+    string checkColor(string coordinates) {
         char ch = coordinates[0];
         int num = coordinates[1] - '0';
 
@@ -20,8 +20,8 @@ public:
     }
 
         bool checkTwoChessboards(string coordinate1, string coordinate2) {
-            string ans1 = squareIsWhite(coordinate1);
-            string ans2 = squareIsWhite(coordinate2);
+            string ans1 = checkColor(coordinate1);
+            string ans2 = checkColor(coordinate2);
             return ans1 == ans2;
         }
     };
