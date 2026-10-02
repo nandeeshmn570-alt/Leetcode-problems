@@ -1,6 +1,6 @@
 class Solution:
     def findOcurrences(self, text: str, first: str, second: str) -> list[str]:
-        li = text.split(" ")
+        li = text.split(' ')
         l = []
         n = len(li)
         for i in range(n):
