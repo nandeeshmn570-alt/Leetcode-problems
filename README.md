@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [1078-occurrences-after-bigram](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1078-occurrences-after-bigram/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
+| [2129-capitalize-the-title](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2129-capitalize-the-title/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
