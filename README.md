@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0049-group-anagrams/) | Medium |
 | [0257-binary-tree-paths](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0257-binary-tree-paths/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Binary Lifting
 | Problem Name | Difficulty |
