@@ -1,6 +1,6 @@
 class Solution {
 public:
-    stack<int> s;
+    
     int operation(char ch, int a, int b) {
         switch (ch) {
         case '+':
@@ -16,7 +16,7 @@ public:
     }
 
     int evalRPN(vector<string>& tokens) {
-
+        stack<int> s;
         for (int i = 0; i < tokens.size(); i++) {
             if (tokens[i] == "+" || tokens[i] == "-" || tokens[i] == "*" ||
                 tokens[i] == "/") {
