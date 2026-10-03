@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0724-find-pivot-index](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0724-find-pivot-index/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
