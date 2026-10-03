@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1812-determine-color-of-a-chessboard-square](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
+| [3870-count-commas-in-range](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3870-count-commas-in-range/) | Easy |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
