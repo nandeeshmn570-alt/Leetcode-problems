@@ -1,6 +1,9 @@
 class Solution {
 public:
     bool checkIfPangram(string sentence) {
+        if(sentence.length()<26){
+            return false;
+        }
         int freq[26] = {0};
         for (int i = 0; i < sentence.length(); i++) {
             freq[sentence[i] - 'a']++;
