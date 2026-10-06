@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0724-find-pivot-index/) | Easy |
 | [1046-last-stone-weight](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1046-last-stone-weight/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
 ## Tree
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1046-last-stone-weight](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1046-last-stone-weight/) | Easy |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
