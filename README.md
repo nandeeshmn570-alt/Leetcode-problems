@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0257-binary-tree-paths/) | Easy |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0257-binary-tree-paths/) | Easy |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -183,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -218,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Bucket Sort
@@ -232,4 +237,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
