@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1046-last-stone-weight/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
@@ -35,11 +36,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
 ## Tree
@@ -74,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
