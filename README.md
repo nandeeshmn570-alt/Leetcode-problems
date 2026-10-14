@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1078-occurrences-after-bigram](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1078-occurrences-after-bigram/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2129-capitalize-the-title](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2129-capitalize-the-title/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 ## Sorting
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3870-count-commas-in-range](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3870-count-commas-in-range/) | Easy |
@@ -263,4 +265,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 <!---LeetCode Topics End-->
