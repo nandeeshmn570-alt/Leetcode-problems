@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2235-add-two-integers](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2235-add-two-integers/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3870-count-commas-in-range](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3870-count-commas-in-range/) | Easy |
