@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3232-find-if-digit-game-can-be-won](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0905-sort-array-by-parity/) | Easy |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -296,4 +299,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1472-design-browser-history/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 <!---LeetCode Topics End-->
