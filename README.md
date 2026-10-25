@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0707-design-linked-list](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0707-design-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1472-design-browser-history](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1472-design-browser-history/) | Medium |
 ## Stack
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0707-design-linked-list](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0707-design-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1472-design-browser-history/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
