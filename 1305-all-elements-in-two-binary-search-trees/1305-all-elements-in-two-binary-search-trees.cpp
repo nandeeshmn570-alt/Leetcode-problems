@@ -12,24 +12,24 @@
  */
 class Solution {
 public:
-    void traversal(vector<int>& ans, TreeNode* root) {
+    void inorder(vector<int>& ans, TreeNode* root) {
         if (root == NULL) {
             return;
         }
-        traversal(ans, root->left);
+        inorder(ans, root->left);
         ans.push_back(root->val);
-        traversal(ans, root->right);
+        inorder(ans, root->right);
     }
 
     vector<int> getAllElements(TreeNode* root1, TreeNode* root2) {
         vector<int> ans1;
         vector<int> ans2;
-        traversal(ans1, root1);
-        traversal(ans2, root2);
+        inorder(ans1, root1);
+        inorder(ans2, root2);
 
         vector<int> temp;
         int i = 0, j = 0;
-        while (i < ans1.size() && j<ans2.size()) {
+        while (i < ans1.size() && j < ans2.size()) {
             if (ans1[i] <= ans2[j]) {
                 temp.push_back(ans1[i]);
                 i++;
