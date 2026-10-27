@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1472-design-browser-history](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1472-design-browser-history/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1812-determine-color-of-a-chessboard-square](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2129-capitalize-the-title](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2129-capitalize-the-title/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 ## Sorting
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0905-sort-array-by-parity/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
