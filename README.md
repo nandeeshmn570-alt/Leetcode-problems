@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0173-binary-search-tree-iterator](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
