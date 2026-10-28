@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0414-third-maximum-number/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0724-find-pivot-index/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0713-subarray-product-less-than-k](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
@@ -273,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0724-find-pivot-index/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 ## Quickselect
