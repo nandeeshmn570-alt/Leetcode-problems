@@ -1,12 +1,8 @@
 class Solution {
 public:
     int numSubarrayProductLessThanK(vector<int>& nums, int k) {
-        if (nums.size() == 1) {
-            if (nums[0] < k) {
-                return 1;
-            } else {
-                return 0;
-            }
+        if (k <= 1) {
+            return 0;
         }
         int count = 0;
         int left = 0;
@@ -20,9 +16,9 @@ public:
             if(product ==0){
                 product=1;
             }
-            if(right - left + 1 >=0){
+            
                 count += right - left + 1;
-            }
+            
             
         }
         return count;
