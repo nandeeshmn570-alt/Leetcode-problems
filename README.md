@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0237-delete-node-in-a-linked-list](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0707-design-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1472-design-browser-history](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1472-design-browser-history/) | Medium |
