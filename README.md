@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0414-third-maximum-number/) | Easy |
+| [0455-assign-cookies](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0455-assign-cookies/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0724-find-pivot-index/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0414-third-maximum-number/) | Easy |
+| [0455-assign-cookies](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0455-assign-cookies/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0455-assign-cookies](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0455-assign-cookies/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Dynamic Programming
@@ -321,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0455-assign-cookies/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -330,4 +334,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
