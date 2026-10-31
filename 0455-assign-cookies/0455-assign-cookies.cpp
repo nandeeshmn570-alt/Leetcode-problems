@@ -11,10 +11,8 @@ public:
                 i++;
                 j++;
             }
-            else if ( i < g.size() && j < s.size() && g[i] > s[j]) {
+            else{
                 i++;
-            }else if ( i < g.size() && j < s.size() && g[i] < s[j] ) {
-                j++;
             }
         }
         return count;
