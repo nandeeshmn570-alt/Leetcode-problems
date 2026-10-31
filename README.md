@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1472-design-browser-history](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1472-design-browser-history/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0455-assign-cookies/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0455-assign-cookies/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -326,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0455-assign-cookies/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
