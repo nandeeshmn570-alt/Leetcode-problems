@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0707-design-linked-list](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0707-design-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1472-design-browser-history](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1472-design-browser-history/) | Medium |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0455-assign-cookies](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0455-assign-cookies/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Dynamic Programming
