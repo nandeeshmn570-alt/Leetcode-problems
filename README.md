@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0707-design-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1472-design-browser-history](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1472-design-browser-history/) | Medium |
 ## DP on Trees
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0455-assign-cookies](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0455-assign-cookies/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -368,4 +371,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
