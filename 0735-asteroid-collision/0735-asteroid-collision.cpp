@@ -3,9 +3,8 @@ public:
     vector<int> asteroidCollision(vector<int>& asters) {
         stack<int> s;
         for (int i = 0; i < asters.size(); i++) {
-            if (s.empty()) {
-                s.push(asters[i]);
-            } else if (s.top() > 0 && asters[i] < 0) {
+
+            if (!s.empty() && s.top() > 0 && asters[i] < 0) {
                 int compare = asters[i];
                 while (true) {
                     if (s.empty() || s.top() < 0) {
@@ -15,7 +14,7 @@ public:
                     if (abs(compare) > abs(s.top())) {
                         s.pop();
                     } else if (abs(compare) < abs(s.top())) {
-                       
+
                         break;
                     } else if (abs(compare) == abs(s.top())) {
                         s.pop();
