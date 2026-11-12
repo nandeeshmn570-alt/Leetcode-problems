@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
