@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0739-daily-temperatures/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1472-design-browser-history](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1472-design-browser-history/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0443-string-compression/) | Medium |
 | [1078-occurrences-after-bigram](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1078-occurrences-after-bigram/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -392,4 +394,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0234-palindrome-linked-list/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
