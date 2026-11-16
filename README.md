@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1046-last-stone-weight](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1046-last-stone-weight/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1472-design-browser-history](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1472-design-browser-history/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nandeeshmn570-alt/Leetcode--problems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
